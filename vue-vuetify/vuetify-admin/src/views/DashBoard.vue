@@ -1,7 +1,7 @@
 <template>
-  <div>
-    DashBoard Pages
-  </div>
+  <v-container>
+    <v-card class="pa-3"> DashBoard Pages</v-card>
+  </v-container>
 </template>
 <script>
 export default {
