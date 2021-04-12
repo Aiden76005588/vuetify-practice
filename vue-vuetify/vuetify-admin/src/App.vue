@@ -51,6 +51,16 @@ export default {
       items: [
         { title: "Dashboard", icon: "mdi-view-dashboard", to: "/" },
         { title: "GridSystem", icon: "mdi-view-dashboard", to: "/gridsystem" },
+        {
+          title: "GridListPage",
+          icon: "mdi-view-dashboard",
+          to: "/gridlistpage",
+        },
+        {
+          title: "BreakPoint",
+          icon: "mdi-view-dashboard",
+          to: "/breakpoint",
+        },
       ],
       right: null,
     };
